@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dag1Rekursion/Dag1Rekursion.iml" filepath="$PROJECT_DIR$/Dag1Rekursion/Dag1Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag2MereRekursion/Dag2MereRekursion.iml" filepath="$PROJECT_DIR$/Dag2MereRekursion/Dag2MereRekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag3EndnuMereRekursion/Dag3EndnuMereRekursion.iml" filepath="$PROJECT_DIR$/Dag3EndnuMereRekursion/Dag3EndnuMereRekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag5CollectionFramework/Dag5CollectionFramework.iml" filepath="$PROJECT_DIR$/Dag5CollectionFramework/Dag5CollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag6LambdaUdtryk/Dag6LambdaUdtryk.iml" filepath="$PROJECT_DIR$/Dag6LambdaUdtryk/Dag6LambdaUdtryk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag7DesignPatterns/Dag7DesignPatterns.iml" filepath="$PROJECT_DIR$/Dag7DesignPatterns/Dag7DesignPatterns.iml" />
+    </modules>
+  </component>
+</project>
