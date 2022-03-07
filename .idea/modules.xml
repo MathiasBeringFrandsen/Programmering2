@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/Dag5CollectionFramework/Dag5CollectionFramework.iml" filepath="$PROJECT_DIR$/Dag5CollectionFramework/Dag5CollectionFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dag6LambdaUdtryk/Dag6LambdaUdtryk.iml" filepath="$PROJECT_DIR$/Dag6LambdaUdtryk/Dag6LambdaUdtryk.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dag7DesignPatterns/Dag7DesignPatterns.iml" filepath="$PROJECT_DIR$/Dag7DesignPatterns/Dag7DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag8UnitTest/Dag8UnitTest.iml" filepath="$PROJECT_DIR$/Dag8UnitTest/Dag8UnitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag9SingletonOgAdapter/Dag9SingletonOgAdapter.iml" filepath="$PROJECT_DIR$/Dag9SingletonOgAdapter/Dag9SingletonOgAdapter.iml" />
     </modules>
   </component>
 </project>
