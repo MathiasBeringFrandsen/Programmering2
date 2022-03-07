@@ -15,9 +15,7 @@ public class ObservableBag implements Bag, Iterable {
         } else {
             contents.put(s, contents.get(s) + 1);
         }
-        for (Observer o : observers){
-            o.update(s,contents.get(s));
-        }
+        updateObservers(s);
     }
 
     @Override
@@ -27,6 +25,10 @@ public class ObservableBag implements Bag, Iterable {
         } else {
             contents.put(s, contents.get(s) - 1);
         }
+        updateObservers(s);
+    }
+
+    private void updateObservers(String s){
         for (Observer o : observers) {
             o.update(s, contents.get(s));
         }

@@ -1,45 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b058f86b-1bea-4621-a564-2ba2ee7677f6" name="Changes" comment="Første commit">
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/Dag8UnitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/src/bibliotek/Bibliotek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/src/caculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/src/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/src/forsikring/BilForsikring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/src/modelstudent/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/src/modelstudent/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/src/modelstudent/TestNuk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/src/modelstudent/TooManyGradesException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/src/opgave5/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/src/opgave5/bagMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/src/storage/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/test/CalculatorTest/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/test/bibliotek/BibliotekTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/test/controller/ControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/test/forsikring/BilForsikringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/test/modelstudent/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/test/modelstudent/TeamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/test/modelstudent/TeamTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag8UnitTest/test/storage/StorageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/Dag9SingletonOgAdapter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave2/AnvendCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave2/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave3/AnvendPersonAdministrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave3/PersonAdministrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave4/ElVare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave4/FoedeVare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave4/Spiritus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave4/SpiritusAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave4/Vare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave4/VareApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave5/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave5/ObservableBag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave5/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave5/Subjekt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b058f86b-1bea-4621-a564-2ba2ee7677f6" name="Changes" comment="workspace">
+      <change beforePath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave5/ObservableBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave5/ObservableBag.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,6 +152,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <servers />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
