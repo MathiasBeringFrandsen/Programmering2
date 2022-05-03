@@ -5,8 +5,8 @@ import java.util.HashSet;
 import java.util.Iterator;
 
 public class ObservableBag implements Bag, Iterable {
-    HashMap<String, Integer> contents = new HashMap<>();
-    HashSet<Observer> observers = new HashSet<>();
+    private HashMap<String, Integer> contents = new HashMap<>();
+    private HashSet<Observer> observers = new HashSet<>();
 
     @Override
     public void add(String s) {
@@ -20,15 +20,17 @@ public class ObservableBag implements Bag, Iterable {
 
     @Override
     public void remove(String s) {
-        if (contents.get(s) == 1){
-            contents.remove(s);
-        } else {
-            contents.put(s, contents.get(s) - 1);
+        if (contents.containsKey(s)) {
+            if (contents.get(s) == 1) {
+                contents.remove(s);
+            } else {
+                contents.put(s, contents.get(s) - 1);
+            }
+            updateObservers(s);
         }
-        updateObservers(s);
     }
 
-    private void updateObservers(String s){
+    private void updateObservers(String s) {
         for (Observer o : observers) {
             o.update(s, contents.get(s));
         }

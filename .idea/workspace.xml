@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b058f86b-1bea-4621-a564-2ba2ee7677f6" name="Changes" comment="workspace">
+    <list default="true" id="b058f86b-1bea-4621-a564-2ba2ee7677f6" name="Changes" comment="UnitTest og Singleton og Adapter">
+      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/Dag10IteratorOgComposite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/headfirstwaitress/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/headfirstwaitress/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/headfirstwaitress/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/headfirstwaitress/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/headfirstwaitress/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/personcollection/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/personcollection/PersonCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/Dag11Serializable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/application/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/application/model/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/application/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/CompanyPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/CompanyWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/EmployeePane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/EmployeeWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/StartWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/setup/StorageInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/storage/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/eksempelpersist/LoadAndPersistPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/eksempelpersist/LoadPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/eksempelpersist/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/eksempelpersist/PesrsistPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/opgave1/MyTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/opgave1/MyTimeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/application/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/application/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/gui/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/gui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/gui/StartWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/gui/StudentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/setup/StorageInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/storage/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/Dag12LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/cityarraylist/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/cityarraylist/CityList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/cityarraylist/CityListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/citylinkedlist/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/citylinkedlist/CityList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/citylinkedlist/CityListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/opgave2sortedlinkedlist/SortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/opgave2sortedlinkedlist/SortedLinkedListApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/opgave3sortedlinkelistdouble/SortedLinkedListDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07-03-2022_15_31_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07-03-2022_15_31__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave5/ObservableBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave5/ObservableBag.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +67,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -36,6 +84,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -46,19 +95,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave5" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dag12LinkedList/src" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Frand\Pro2\Dag12LinkedList\src" />
+      <recent name="C:\Users\Frand\Pro2\Dag11Serializable\src" />
+      <recent name="C:\Users\Frand\Pro2\Dag10IteratorOgComposite\src" />
       <recent name="C:\Users\Frand\Pro2\Dag9SingletonOgAdapter\src\opgave5" />
       <recent name="C:\Users\Frand\Pro2\Dag9SingletonOgAdapter\src\opgave4" />
-      <recent name="C:\Users\Frand\Pro2\Dag8UnitTest\test" />
-      <recent name="C:\Users\Frand\Pro2\Dag8UnitTest\src" />
-      <recent name="C:\Users\Frand\Pro2\Dag7DesignPatterns\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -71,13 +120,13 @@
       <recent name="opgave3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VareApp">
-    <configuration name="AnvendCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opgave2.AnvendCounter" />
-      <module name="Dag9SingletonOgAdapter" />
+  <component name="RunManager" selected="Application.SortedLinkedListApp">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="architecture1Semester.guifx.App" />
+      <module name="Dag11Serializable" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opgave2.*" />
+          <option name="PATTERN" value="architecture1Semester.guifx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnvendPersonAdministrator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opgave3.AnvendPersonAdministrator" />
-      <module name="Dag9SingletonOgAdapter" />
+    <configuration name="CityListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="citylinkedlist.CityListDemo" />
+      <module name="Dag12LinkedList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opgave3.*" />
+          <option name="PATTERN" value="citylinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VareApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opgave4.VareApp" />
-      <module name="Dag9SingletonOgAdapter" />
+    <configuration name="MyTimeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opgave1.MyTimeApp" />
+      <module name="Dag11Serializable" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opgave4.*" />
+          <option name="PATTERN" value="opgave1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,43 +160,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BibliotekTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Dag8UnitTest" />
+    <configuration name="SortedLinkedListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opgave2sortedlinkedlist.SortedLinkedListApp" />
+      <module name="Dag12LinkedList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bibliotek.*" />
+          <option name="PATTERN" value="opgave2sortedlinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="bibliotek" />
-      <option name="MAIN_CLASS_NAME" value="bibliotek.BibliotekTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BilForsikringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Dag8UnitTest" />
+    <configuration name="StorageInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="architecture1Semester.setup.StorageInitializer" />
+      <module name="Dag11Serializable" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="forsikring.*" />
+          <option name="PATTERN" value="architecture1Semester.setup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="forsikring" />
-      <option name="MAIN_CLASS_NAME" value="forsikring.BilForsikringTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VareApp" />
-        <item itemvalue="Application.AnvendPersonAdministrator" />
-        <item itemvalue="Application.AnvendCounter" />
-        <item itemvalue="JUnit.BibliotekTest" />
-        <item itemvalue="JUnit.BilForsikringTest" />
+        <item itemvalue="Application.SortedLinkedListApp" />
+        <item itemvalue="Application.CityListDemo" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.StorageInitializer" />
+        <item itemvalue="Application.MyTimeApp" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +215,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Første commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Første commit" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

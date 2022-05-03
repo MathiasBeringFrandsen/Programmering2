@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dag10IteratorOgComposite/Dag10IteratorOgComposite.iml" filepath="$PROJECT_DIR$/Dag10IteratorOgComposite/Dag10IteratorOgComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag11Serializable/Dag11Serializable.iml" filepath="$PROJECT_DIR$/Dag11Serializable/Dag11Serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dag12LinkedList/Dag12LinkedList.iml" filepath="$PROJECT_DIR$/Dag12LinkedList/Dag12LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dag1Rekursion/Dag1Rekursion.iml" filepath="$PROJECT_DIR$/Dag1Rekursion/Dag1Rekursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dag2MereRekursion/Dag2MereRekursion.iml" filepath="$PROJECT_DIR$/Dag2MereRekursion/Dag2MereRekursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dag3EndnuMereRekursion/Dag3EndnuMereRekursion.iml" filepath="$PROJECT_DIR$/Dag3EndnuMereRekursion/Dag3EndnuMereRekursion.iml" />
