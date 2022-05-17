@@ -29,11 +29,15 @@ public class DictionaryArrayList<K, V> implements Dictionary<K, V> {
     @Override
     public V get(K key) {
         int i = key.hashCode() % N;
-        Item temp = tabel[i].get(0);
-        while (temp != null){
-
+        V value = null;
+        int j = 0;
+        while (j < tabel[i].size() && value == null) {
+            if (tabel[i].get(j).key.equals(key)) {
+                value = tabel[i].get(j).value;
+                j++;
+            }
         }
-        return null;
+            return value;
     }
 
     /**
@@ -43,7 +47,13 @@ public class DictionaryArrayList<K, V> implements Dictionary<K, V> {
      */
     @Override
     public boolean isEmpty() {
-        return false;
+        boolean empty = true;
+        int i = 0;
+        while (empty && i < N) {
+            empty = tabel[i].isEmpty();
+            i++;
+        }
+        return empty;
     }
 
     /**
@@ -58,6 +68,7 @@ public class DictionaryArrayList<K, V> implements Dictionary<K, V> {
      */
     @Override
     public V put(K key, V value) {
+
         return null;
     }
 
