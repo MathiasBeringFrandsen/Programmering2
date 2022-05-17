@@ -1,56 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b058f86b-1bea-4621-a564-2ba2ee7677f6" name="Changes" comment="UnitTest og Singleton og Adapter">
-      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/Dag10IteratorOgComposite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/headfirstwaitress/DinerMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/headfirstwaitress/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/headfirstwaitress/MenuTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/headfirstwaitress/PancakeHouseMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/headfirstwaitress/Waitress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/personcollection/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag10IteratorOgComposite/src/personcollection/PersonCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/Dag11Serializable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/application/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/application/model/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/application/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/CompanyPane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/CompanyWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/EmployeePane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/EmployeeWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/guifx/StartWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/setup/StorageInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/architecture1Semester/storage/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/eksempelpersist/LoadAndPersistPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/eksempelpersist/LoadPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/eksempelpersist/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/eksempelpersist/PesrsistPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/opgave1/MyTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/opgave1/MyTimeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/application/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/application/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/gui/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/gui/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/gui/StartWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/gui/StudentApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/setup/StorageInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag11Serializable/src/studentpersist/storage/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/Dag12LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/cityarraylist/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/cityarraylist/CityList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/cityarraylist/CityListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/citylinkedlist/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/citylinkedlist/CityList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/citylinkedlist/CityListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/opgave2sortedlinkedlist/SortedLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/opgave2sortedlinkedlist/SortedLinkedListApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag12LinkedList/src/opgave3sortedlinkelistdouble/SortedLinkedListDouble.java" afterDir="false" />
+    <list default="true" id="b058f86b-1bea-4621-a564-2ba2ee7677f6" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/Dag14Køer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/src/opgave1og2/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/src/opgave1og2/ArrayQueueLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/src/opgave1og2/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/src/opgave1og2/QueueI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/src/opgave3/CircularArrayDequeue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/src/opgave3/DequeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/src/opgave3/DequeI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/src/opgave3/LinkedDequeue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/src/opgave4/CannibalListe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/src/opgave4/CannibalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag14Køer/src/opgave4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag15Hashing/Dag15Hashing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag15Hashing/src/hashsetstudent/HashSetChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag15Hashing/src/hashsetstudent/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag15Hashing/src/hashsetstudent/HashSetLinearProbing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/Dag16GenericTypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/bagopgave/ArrayBag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/bagopgave/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/bagopgave/BagTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/genericseksempel/Ansat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/genericseksempel/Mekaniker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/genericseksempel/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/opgave3/Navn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/opgave3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/opgave3/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/queue/CircularArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/queue/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/queue/QueueI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/setoperationsopgave/AfproevSetOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag16GenericTypes/src/setoperationsopgave/SetOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag17HashingMaps/Dag17HashingMaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag17HashingMaps/src/dictionaryelev/DictionarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag17HashingMaps/src/dictionaryelev/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag17HashingMaps/src/dictionaryelev/DictionaryArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag17HashingMaps/src/dictionaryelev/DictionaryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag17HashingMaps/src/dictionaryelev/DictionaryHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag17HashingMaps/src/dictionaryelev/DictionaryLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag17HashingMaps/src/opgave1/Bil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag17HashingMaps/src/opgave1/BilApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07-03-2022_15_31_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07-03-2022_15_31__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave5/ObservableBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave5/ObservableBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dag12LinkedList/src/citylinkedlist/CityList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dag12LinkedList/src/citylinkedlist/CityList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dag12LinkedList/src/opgave2sortedlinkedlist/SortedLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dag12LinkedList/src/opgave2sortedlinkedlist/SortedLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +90,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dag12LinkedList/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dag17HashingMaps/src" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -103,11 +98,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Frand\Pro2\Dag12LinkedList\src" />
-      <recent name="C:\Users\Frand\Pro2\Dag11Serializable\src" />
-      <recent name="C:\Users\Frand\Pro2\Dag10IteratorOgComposite\src" />
-      <recent name="C:\Users\Frand\Pro2\Dag9SingletonOgAdapter\src\opgave5" />
-      <recent name="C:\Users\Frand\Pro2\Dag9SingletonOgAdapter\src\opgave4" />
+      <recent name="C:\Users\Frand\Pro2\Dag17HashingMaps\src" />
+      <recent name="C:\Users\Frand\Pro2\Dag16GenericTypes\src" />
+      <recent name="C:\Users\Frand\Pro2\Dag15Hashing\src" />
+      <recent name="C:\Users\Frand\Pro2\Dag14Køer\src\opgave4" />
+      <recent name="C:\Users\Frand\Pro2\Dag14Køer\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -120,36 +115,10 @@
       <recent name="opgave3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortedLinkedListApp">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="architecture1Semester.guifx.App" />
-      <module name="Dag11Serializable" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="architecture1Semester.guifx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CityListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="citylinkedlist.CityListDemo" />
-      <module name="Dag12LinkedList" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="citylinkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTimeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opgave1.MyTimeApp" />
-      <module name="Dag11Serializable" />
+  <component name="RunManager" selected="JUnit.DictionarTest">
+    <configuration name="BilApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opgave1.BilApp" />
+      <module name="Dag17HashingMaps" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="opgave1.*" />
@@ -160,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedLinkedListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opgave2sortedlinkedlist.SortedLinkedListApp" />
-      <module name="Dag12LinkedList" />
+    <configuration name="DictionaryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dictionaryelev.DictionaryDemo" />
+      <module name="Dag17HashingMaps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opgave2sortedlinkedlist.*" />
+          <option name="PATTERN" value="dictionaryelev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,26 +142,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StorageInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="architecture1Semester.setup.StorageInitializer" />
-      <module name="Dag11Serializable" />
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="opgave3.PersonTest" />
+      <module name="Dag16GenericTypes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="architecture1Semester.setup.*" />
+          <option name="PATTERN" value="opgave3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dag16GenericTypes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bagopgave.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bagopgave" />
+      <option name="MAIN_CLASS_NAME" value="bagopgave.BagTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Dag17HashingMaps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dictionaryelev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dictionaryelev" />
+      <option name="MAIN_CLASS_NAME" value="dictionaryelev.DictionarTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortedLinkedListApp" />
-        <item itemvalue="Application.CityListDemo" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.StorageInitializer" />
-        <item itemvalue="Application.MyTimeApp" />
+        <item itemvalue="JUnit.DictionarTest" />
+        <item itemvalue="Application.DictionaryDemo" />
+        <item itemvalue="Application.BilApp" />
+        <item itemvalue="JUnit.BagTest" />
+        <item itemvalue="Application.PersonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +216,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Første commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Første commit" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

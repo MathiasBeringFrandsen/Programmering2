@@ -1,6 +1,5 @@
 package citylinkedlist;
 
-import java.lang.reflect.WildcardType;
 import java.util.NoSuchElementException;
 
 /**

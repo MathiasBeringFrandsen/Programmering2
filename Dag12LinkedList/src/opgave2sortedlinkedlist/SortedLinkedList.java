@@ -12,21 +12,21 @@ public class SortedLinkedList {
      * naturlige ordning på elementerne
      */
     public void addElement(String e) {
-        Node node = new Node();
-        node.data = e;
+        Node newNode = new Node();
+        newNode.data = e;
         if (first == null) {
-            first = node;
+            first = newNode;
         } else {
             if (first.data.compareToIgnoreCase(e) > 1) {
-                node.next = first;
-                first = node;
+                newNode.next = first;
+                first = newNode;
             } else {
                 Node temp = first;
                 while (temp.next != null && temp.next.data.compareToIgnoreCase(e) < 1) {
                     temp = temp.next;
                 }
-                node.next = temp.next;
-                temp.next = node;
+                newNode.next = temp.next;
+                temp.next = newNode;
             }
         }
     }
