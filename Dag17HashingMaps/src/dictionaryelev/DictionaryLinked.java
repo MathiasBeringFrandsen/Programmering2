@@ -20,13 +20,14 @@ public class DictionaryLinked<K, V> implements Dictionary<K, V> {
         V value = null;
         Node temp = start.next;
         boolean found = false;
+
         while (temp != null && !found) {
             if (temp.key.equals(key)) {
                 value = temp.value;
                 found = true;
-            } else {
-                temp = temp.next;
             }
+            temp = temp.next;
+
         }
         return value;
     }
@@ -41,20 +42,22 @@ public class DictionaryLinked<K, V> implements Dictionary<K, V> {
         V oldValue = null;
         Node temp = start;
         boolean placed = false;
-        while (temp.next != null && !placed) {
-            if (temp.next.key.equals(key)) {
-                oldValue = temp.next.value;
-                temp.next.value = value;
+
+        while (temp != null && !placed) {
+            if (temp.key.equals(key)) {
+                oldValue = temp.value;
+                temp.value = value;
                 placed = true;
-            } else {
-                temp = temp.next;
             }
+            temp = temp.next;
+
         }
         if (!placed) {
             Node newNode = new Node();
             newNode.key = key;
             newNode.value = value;
-            temp.next = newNode;
+            newNode.next = start.next;
+            start.next = newNode;
             size++;
         }
         return oldValue;
@@ -69,9 +72,8 @@ public class DictionaryLinked<K, V> implements Dictionary<K, V> {
                 value = temp.next.value;
                 temp.next = temp.next.next;
                 size--;
-            } else {
-                temp = temp.next;
             }
+            temp = temp.next;
         }
         return value;
     }
