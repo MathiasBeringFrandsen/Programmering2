@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b058f86b-1bea-4621-a564-2ba2ee7677f6" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Dag18Trees/Dag18Trees.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag18Trees/src/binartreestuderende/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag18Trees/src/binartreestuderende/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag18Trees/src/binartreestuderende/DecisionTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag19BST/Dag19BST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag19BST/src/binarysearchtreestuderende/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag19BST/src/binarysearchtreestuderende/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag19BST/src/binarysearchtreestuderende/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag19BST/src/binarysearchtreestuderende/DictionaryBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag19BST/src/binarysearchtreestuderende/DictionaryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dag19BST/src/binarysearchtreestuderende/TreeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag20Prøveeksamen/Dag20Prøveeksamen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag20Prøveeksamen/src/hovedspgsmNN/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dag20Prøveeksamen/src/hovedspgsmNN/BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dag17HashingMaps/src/dictionaryelev/DictionaryLinked.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dag17HashingMaps/src/dictionaryelev/DictionaryLinked.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave3/PersonAdministrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dag9SingletonOgAdapter/src/opgave3/PersonAdministrator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +60,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dag19BST/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dag20Prøveeksamen/src" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -76,11 +68,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Frand\Pro2\Dag20Prøveeksamen\src" />
       <recent name="C:\Users\Frand\Pro2\Dag19BST\src" />
       <recent name="C:\Users\Frand\Pro2\Dag18Trees\src" />
       <recent name="C:\Users\Frand\Pro2\Dag17HashingMaps\src" />
       <recent name="C:\Users\Frand\Pro2\Dag16GenericTypes\src" />
-      <recent name="C:\Users\Frand\Pro2\Dag15Hashing\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -93,7 +85,7 @@
       <recent name="opgave3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
+  <component name="RunManager" selected="Application.App (2)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarysearchtreestuderende.App" />
       <module name="Dag19BST" />
@@ -107,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binartreestuderende.App" />
-      <module name="Dag18Trees" />
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hovedspgsmNN.App" />
+      <module name="Dag20Prøveeksamen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binartreestuderende.*" />
+          <option name="PATTERN" value="hovedspgsmNN.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BilApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="opgave1.BilApp" />
-      <module name="Dag17HashingMaps" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binartreestuderende.App" />
+      <module name="Dag18Trees" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="opgave1.*" />
+          <option name="PATTERN" value="binartreestuderende.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.DictionarTest" />
         <item itemvalue="Application.DictionaryDemo" />
-        <item itemvalue="Application.BilApp" />
       </list>
     </recent_temporary>
   </component>

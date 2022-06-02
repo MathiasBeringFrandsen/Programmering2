@@ -1,6 +1,7 @@
 package opgave3;
 
 import java.util.HashSet;
+import java.util.Iterator;
 import java.util.Set;
 
 public class PersonAdministrator {
@@ -29,6 +30,7 @@ public class PersonAdministrator {
     public Set<Person> getPersoner(){
         return new HashSet<>(personer);
     }
+
 
 
 }
